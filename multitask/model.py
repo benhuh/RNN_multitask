@@ -1,11 +1,5 @@
 """ Network model that works with train_pytorch.py """
 
-# import sys, os
-# sys.path.append(os.path.dirname(os.path.realpath(__file__)))
-
-# import sys
-# sys.path.append("..") 
-
 import torch
 from torch import nn, jit
 from .train import generate_trials as gen_trials
