@@ -1,4 +1,4 @@
-# multitask_RNN_pytorch
+# multitask training of RNN models
 
 Pytorch implementation of multitask RNN training (original TensorFlow code [here](https://github.com/gyyang/multitask)):
 
